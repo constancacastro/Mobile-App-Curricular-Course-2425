@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775909894887",
+    "project_id": "chatr-5f47e",
+    "storage_bucket": "chatr-5f47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775909894887:android:a9958ba6b0f072eb665042",
+        "android_client_info": {
+          "package_name": "com.example.chatr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMEwInQrNNgKGjLdwJuc835fHLc6Gj5gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
