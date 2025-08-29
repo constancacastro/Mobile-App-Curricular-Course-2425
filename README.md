@@ -1,5 +1,5 @@
 # Mobile Programming (Android/Kotlin)
-Trabalho de PDM em Época Especial (NO BRANCH CHaTr_ee)
+
 Work on Branch: CHaTr_ee
 
 Student: Constança Castro, N.º 50523
