@@ -1,6 +1,6 @@
 # Mobile Programming (Android/Kotlin)
 
-Work on Branch: CHaTr_ee
+## Project on Branch: CHaTr_ee
 
 Student: Constança Castro, N.º 50523
 
